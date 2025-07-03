@@ -1,0 +1,7 @@
+{
+  "name": "root-wrapper",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd portofolio_web && npm install && npm start"
+  }
+}
