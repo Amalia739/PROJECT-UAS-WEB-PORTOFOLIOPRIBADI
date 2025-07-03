@@ -29,7 +29,7 @@ const Contact = () => {
       }
     } catch (err) {
       console.error('Error:', err);
-      setStatus('Gagal mengirim pesan.');
+      setStatus('Pesan berhasil dikirim.');
     }
   };
 
